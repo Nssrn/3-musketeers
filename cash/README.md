@@ -33,11 +33,12 @@
 
 ## Usage
 Execution : 
-    ```sh
-    > node index.js 
-    ```
+```sh
+> node index.js 
+```
 Overview : 
-![overview1](./img/md1.png)
+
+![overview1](./img/md1)
 
 When you execute this, you will arrive to the helpers page 
 
@@ -49,7 +50,7 @@ When you execute this, you will arrive to the helpers page
 ```
 Overview : 
 
-![overview2](./img/md2.png)
+![overview2](./img/md2)
 
 2. Convert 1 usd to Euro, Polish Zloty and Australian Dollar (EUR & PLN)
 ```sh
@@ -57,7 +58,7 @@ Overview :
 ```
 Overview : 
 
-![overview3](./img/md3.png)
+![overview3](./img/md3)
 
 3. Change the default currencies 
 ```sh
@@ -66,7 +67,7 @@ Overview :
 This command allow you to saved defaults currencies to Euro, PLN and Aud
 
 Overview : 
-![overview4](./img/md4.png)
+![overview4](./img/md4)
 
 
 
