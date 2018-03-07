@@ -9,23 +9,66 @@
 - [Introduction](#introduction)
 - [Objective](#objective)
 - [Installation](#installation)
-- [Installation](#installation)
+- [Usage](#usage)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction 
 
-* complete the [cash/README.md](./cash/README.md) file with a complete description of installation, usage... of the library
-* add JSDOC function blocks for the 3 files [cash/bin/cash.js](./cash/bin/cash.js), [cash/bin/helpers.js](./cash/bin/helpers.js) and [cash/bin/index.js](./cash/bin/index.js)
+ Describe how to use Cash
 
 ## Objective 
+
+* Currency Converter
 
 
 
 
 ## Installation
+1. Install the packages : 
+    ```sh
+    > npm install
+    ```
+
 
 ## Usage
+Execution : 
+    ```sh
+    > node index.js 
+    ```
+Overview : 
+![overview1](./img/md1.png)
+
+When you execute this, you will arrive to the helpers page 
+
+* Command to try the given exemples : 
+
+1. Convert 1eur to the currency saved by default (USD & GBP)
+```sh
+> node index.js $cash 1 eur
+```
+Overview : 
+
+![overview2](./img/md2.png)
+
+2. Convert 1 usd to Euro, Polish Zloty and Australian Dollar (EUR & PLN)
+```sh
+> node index.js $cash 1 usd eur pln aud 
+```
+Overview : 
+
+![overview3](./img/md3.png)
+
+3. Change the default currencies 
+```sh
+> node index.js $cash --save usd eur pln aud
+```
+This command allow you to saved defaults currencies to Euro, PLN and Aud
+
+Overview : 
+![overview4](./img/md4.png)
+
+
 
 
 
