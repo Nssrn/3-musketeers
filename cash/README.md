@@ -38,7 +38,7 @@ Execution :
 ```
 Overview : 
 
-![overview1](./img/md1)
+![overview1](./img/md1.jpg)
 
 When you execute this, you will arrive to the helpers page 
 
@@ -50,7 +50,7 @@ When you execute this, you will arrive to the helpers page
 ```
 Overview : 
 
-![overview2](./img/md2)
+![overview2](./img/md2.jpg)
 
 2. Convert 1 usd to Euro, Polish Zloty and Australian Dollar (EUR & PLN)
 ```sh
@@ -58,7 +58,7 @@ Overview :
 ```
 Overview : 
 
-![overview3](./img/md3)
+![overview3](./img/md3.jpg)
 
 3. Change the default currencies 
 ```sh
@@ -67,7 +67,7 @@ Overview :
 This command allow you to saved defaults currencies to Euro, PLN and Aud
 
 Overview : 
-![overview4](./img/md4)
+![overview4](./img/md4.jpg)
 
 
 
